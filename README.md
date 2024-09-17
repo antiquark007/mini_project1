@@ -1,3 +1,3 @@
 # mini_projects
-mini.projects
-link:https://antiquark007.github.io/mini_project1/
+The websites displays the seasonal changes dynamically.
+[link](https://antiquark007.github.io/mini_project1/)
